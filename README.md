@@ -1,0 +1,2 @@
+# omocc.py
+Hello openmind.
